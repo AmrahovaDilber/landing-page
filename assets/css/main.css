@@ -75,7 +75,7 @@ body {
   z-index: 1;
   transition: background-color 0.3s ease;
   border-radius: 5px;
-  background-image: linear-gradient(310deg, white, orange);
+  background-image: linear-gradient(310deg, white, rgb(89, 66, 24));
   color: black;
 
   & li {
